@@ -1,7 +1,7 @@
 ## Live Link --> https://invictus-task.herokuapp.com/
 
 Task Assigned By Invictus
-![](//home/madan/Documents/invictus/Screenshot from 2021-05-19 11-11-45.png) 
+![](project.png) 
 
 
 ### What are the Table Parameters?
