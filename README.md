@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+## Live Link --> https://invictus-task.herokuapp.com/
+
+Task Assigned By Invictus
+![](//home/madan/Documents/invictus/Screenshot from 2021-05-19 11-11-45.png) 
+
+
+### What are the Table Parameters?
+
+| Parameter  | Description                                                                                                                  |
+|------------|------------------------------------------------------------------------------------------------------------------------------|
+| "S.No"     | Should contain the Task Serial Number                                                                      |
+| "Word"     | Word Name |
+| "Frequency"    | Frequency Of Words|                             
+
+
+## Technology Used
+This Project is Created using  React.Js.
+
+## Project Structure
+
+#### `Fetch` Function is used to fetch the text from the api link
+#### used `map` to store the frequency of word.
+#### using `for loop`, table is created.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -64,7 +88,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Thank You
